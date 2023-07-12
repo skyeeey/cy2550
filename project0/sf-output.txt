@@ -1,8 +1,18 @@
-Reading package lists...
-Building dependency tree...
-Reading state information...
-screenfetch is already the newest version (3.9.1+20210523-1).
-The following packages were automatically installed and are no longer required:
-  libflashrom1 libftdi1-2
-Use 'sudo apt autoremove' to remove them.
-0 upgraded, 0 newly installed, 0 to remove and 151 not upgraded.
+                          ./+o+-       root@skye-vm
+                  yyyyy- -yyyyyy+      OS: Ubuntu 22.04 jammy
+               ://+//////-yyyyyyo      Kernel: x86_64 Linux 5.19.0-46-generic
+           .++ .:/++++++/-.+sss/`      Uptime: 3h 21m
+         .:++o:  /++++++++/:--:/-      Packages: 1659
+        o:+o+:++.`..```.-/oo+++++/     Shell: sudo
+       .:+o:+o/.          `+sssoo+/    Resolution: 1440x900
+  .++/+:+oo+o:`             /sssooo.   WM: Mutter
+ /+++//+:`oo+o               /::--:.   WM Theme: Adwaita
+ \+/+o+++`o++o               ++////.   GTK Theme: Yaru [GTK3]
+  .++.o+++oo+:`             /dddhhh.   Disk: 14G / 63G (23%)
+       .+.o+oo:.          `oddhhhh+    CPU: QEMU Virtual version 2.5+ @ 4x 1.996GHz
+        \+.++o+o``-````.:ohdhhhhh+     GPU: 
+         `:o+++ `ohhhhhhhhyo++os:      RAM: 1229MiB / 3907MiB
+           .o:`.syhhhhhhh/.oo++o`     
+               /osyyyyyyo++ooo+++/    
+                   ````` +oo+++o\:    
+                          `oo++.      
